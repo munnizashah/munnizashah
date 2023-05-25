@@ -2,7 +2,7 @@
 - 💻 I'm a frontend developer student
 - 🌱 I’m currently learning HTML, CSS, JAVASCRIPT & REACT
 - 📲 How to reach me -> shahmunniza@gmail.com
-- 🧡 My feelings? "Coding is the ocean and I've only had a sip...🌊" - Munniza
+- 🧡 "Coding is the ocean and I've only had a sip...🌊" - Munniza
 
 <!---
 munnizashah/munnizashah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
