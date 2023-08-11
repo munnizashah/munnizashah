@@ -1,8 +1,4 @@
-- 👋🏽 Hello guys, @munnizashah here!
-- 💻 I'm a frontend developer student
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT & REACT
-- 📲 How to reach me -> shahmunniza@gmail.com
-- 🧡 "Coding is the ocean and I've only had a sip...🌊" - Munniza
+- 👋🏽 Hello guys, @munnizashah here, a frontend developer student on a journey!
 
 <!---
 munnizashah/munnizashah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
